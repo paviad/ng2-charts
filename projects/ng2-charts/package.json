@@ -15,10 +15,8 @@
     "@angular/common": ">=7.2.0",
     "@angular/core": ">=7.2.0",
     "chart.js": "^3.2.0",
-    "rxjs": "^6.3.3"
-  },
-  "dependencies": {
-    "lodash-es": "^4.17.15"
+    "rxjs": "^6.3.3",
+    "lodash-es": "^4.7.15"
   },
   "description": "Reactive, responsive, beautiful charts for Angular2 based on Chart.js",
   "main": "src/public_api.ts",
